@@ -9,3 +9,5 @@ document.addEventListener("DOMContentLoaded", function () {
         background.style.display = displayCheckbox.checked ? "block" : "none";
     });
 });
+
+// Kullanıcı Girişi
